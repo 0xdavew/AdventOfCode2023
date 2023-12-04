@@ -27,7 +27,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "aoc-03"
+name = "aoc-04"
 version = "0.1.0"
 dependencies = [
  "libcommon",
